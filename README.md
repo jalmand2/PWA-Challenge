@@ -19,7 +19,9 @@ Run the installation commands and enjoy. Or check out the deployed application l
 This is what the application looks like when installed 
 ![TextEditor](/client/src/images/texteditor.png)
 
-* Application link: 
+* Application link: https://git.heroku.com/cryptic-plateau-41168.git
+
+* Github Repository Link: https://github.com/jalmand2/PWA-Challenge
 
   ## License
   This project was created using the [Mozilla Public License 2.0](https://opensource.org/licenses/Mozilla-Public-License-2.0).
